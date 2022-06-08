@@ -1,0 +1,13 @@
+body{
+    background-color: green;
+    color:yellow;
+}
+.heading{
+    width:70%;
+    padding: 5px;
+}
+#camera,#result{
+    border:2px solid red;
+    width:350px;
+    height: 300px;
+}
